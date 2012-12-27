@@ -1,11 +1,11 @@
 { success: true,
   command: 'escort',
-  roomid: '4e6851fa14169c2255108b8c',
+  roomid: '50d8d034eb35c14a2c232aa6',
   user: 
    [ { name: 'alain_scrib',
        created: 1315461804.92,
        laptop: 'mac',
-       userid: '4e685aac14169c225510e99d',
+       userid: '50047146aaa5cd359e00004c',
        acl: 0,
        fans: 5,
        points: 22,
